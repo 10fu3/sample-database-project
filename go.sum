@@ -1,0 +1,8 @@
+filippo.io/edwards25519 v1.1.0 h1:FNf4tywRC1HmFuKW5xopWpigGjJKiJSV0Cqo0cJWDaA=
+filippo.io/edwards25519 v1.1.0/go.mod h1:BxyFTGdWcka3PhytdK4V28tE5sGfRvvvRV7EaN4VDT4=
+github.com/10fu3/square v0.0.0-20240509220450-c0fd7098fe44 h1:ssWJvM8ftiJT4/kOsEQ90RO6WdOfovkNXm+txHz8aCI=
+github.com/10fu3/square v0.0.0-20240509220450-c0fd7098fe44/go.mod h1:L4pmBSplZ4re0dHjkaw9dRCSUz8oKT56WPfdFCIeARg=
+github.com/10fu3/square v0.0.1 h1:S4gRtq3Ne4nk8oin6gXJQYNXAx9M7lqXwCsXb/T2d7c=
+github.com/10fu3/square v0.0.1/go.mod h1:L4pmBSplZ4re0dHjkaw9dRCSUz8oKT56WPfdFCIeARg=
+github.com/go-sql-driver/mysql v1.8.1 h1:LedoTUt/eveggdHS9qUFC1EFSa8bU2+1pZjSRpvNJ1Y=
+github.com/go-sql-driver/mysql v1.8.1/go.mod h1:wEBSXgmK//2ZFJyE+qWnIsVGmvmEKlqwuVSjsCm7DZg=
