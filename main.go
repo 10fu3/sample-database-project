@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"fmt"
 	"github.com/10fu3/square"
-	"github.com/10fu3/square/common/Operator"
 	"github.com/10fu3/square/common/Orderby"
+	"github.com/10fu3/square/common/where"
 	"github.com/10fu3/square/lib"
 	_ "github.com/go-sql-driver/mysql"
 )
@@ -75,12 +75,8 @@ func main() {
 			},
 		},
 		Where: square.WhereQuery{
-			Column: []square.WhereQueryColumn{
-				{
-					ColumnName:  "id",
-					Operator:    Operator.Eq,
-					Placeholder: []any{1},
-				},
+			Column: []where.Op{
+				where.Eq("id", 1),
 			},
 			Relation: &square.WhereRelationQuery{
 				ParentTable:   "video",
@@ -92,12 +88,8 @@ func main() {
 					},
 				},
 				Where: &square.WhereQuery{
-					Column: []square.WhereQueryColumn{
-						{
-							ColumnName:  "actor_id",
-							Operator:    Operator.Eq,
-							Placeholder: []any{1},
-						},
+					Column: []where.Op{
+						where.Eq("video_id", 1),
 					},
 				},
 			},

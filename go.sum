@@ -4,5 +4,9 @@ github.com/10fu3/square v0.0.0-20240509220450-c0fd7098fe44 h1:ssWJvM8ftiJT4/kOsE
 github.com/10fu3/square v0.0.0-20240509220450-c0fd7098fe44/go.mod h1:L4pmBSplZ4re0dHjkaw9dRCSUz8oKT56WPfdFCIeARg=
 github.com/10fu3/square v0.0.1 h1:S4gRtq3Ne4nk8oin6gXJQYNXAx9M7lqXwCsXb/T2d7c=
 github.com/10fu3/square v0.0.1/go.mod h1:L4pmBSplZ4re0dHjkaw9dRCSUz8oKT56WPfdFCIeARg=
+github.com/10fu3/square v0.0.2 h1:a6Kva0A6swoRScmWiF2hcJPR/Q/qMHdHd1rvwES+mMg=
+github.com/10fu3/square v0.0.2/go.mod h1:L4pmBSplZ4re0dHjkaw9dRCSUz8oKT56WPfdFCIeARg=
+github.com/10fu3/square v0.0.3 h1:sB3nrLeTyVLFCWwMtf7Acxx32nQknqlk6bN8ctDATw0=
+github.com/10fu3/square v0.0.3/go.mod h1:L4pmBSplZ4re0dHjkaw9dRCSUz8oKT56WPfdFCIeARg=
 github.com/go-sql-driver/mysql v1.8.1 h1:LedoTUt/eveggdHS9qUFC1EFSa8bU2+1pZjSRpvNJ1Y=
 github.com/go-sql-driver/mysql v1.8.1/go.mod h1:wEBSXgmK//2ZFJyE+qWnIsVGmvmEKlqwuVSjsCm7DZg=
